@@ -1,0 +1,6 @@
+.DS_store
+
+.vscode/
+
+## Excludes all node_module directories
+node_modules/
